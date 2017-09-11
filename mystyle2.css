@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+#all{
+	background-color: black;
+	height: 720px;
+}
+#header{
+	background-color: red;
+	height: 120px;
+}
+#main{
+	background-color: black;
+	height: 435px;
+	margin-bottom: 15px;
+
+}
+#mainL{
+	background-color: purple;
+	height: 420px;
+}
+#mainR{
+	background-color: orange;
+	height: 420px;
+}
+#footer{
+	background-color: yellow;
+	height: 120px;
+}
+.container{
+	padding: 15px;
+}
+.col-4{
+	float: left;
+	margin-right: 15px;
+}
+.col{
+	float: left;
+}

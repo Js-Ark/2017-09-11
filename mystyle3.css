@@ -1,0 +1,80 @@
+@charset "utf-8";
+
+#all{
+	background-color: black;
+	height: 720px;
+}
+#header{
+	background-color: red;
+	height: 120px;
+	margin-bottom: 15px;
+}
+#main{
+	background-color: black;
+	height: 435px;
+
+}
+#mainL{
+	background-color: purple;
+	height: 420px;
+	float: left;
+}
+#mainR{
+	background-color: black;
+	height: 420px;
+	float: left;
+	padding-right: 0px;
+}
+#footer{
+	background-color: yellow;
+	height: 120px;
+}
+.container{
+	padding: 15px;
+}
+
+#mRtop{
+	background-color: black;
+	height: 130px;
+	margin-bottom: 15px;
+}
+#mRmid{
+	background-color: black;
+	height: 130px;
+	margin-bottom: 15px;
+}
+#mRdown{
+	background-color: black;
+	height: 130px;
+}
+#topL{
+	background-color: gray;
+	height: 130px;
+	margin-right: 15px;
+}
+#topR{
+	background-color: pink;
+	height: 130px;
+}
+#midL{
+	background-color: gray;
+	height: 130px;
+	margin-right: 15px;
+}
+#midR{
+	background-color: pink;
+	height: 130px;
+}
+#downL{
+	background-color: gray;
+	height: 130px;
+	margin-right: 15px;
+}
+#downR{
+	background-color: pink;
+	height: 130px;
+}
+.row{
+	margin-left: 0px;
+	margin-right: 0px;
+}
